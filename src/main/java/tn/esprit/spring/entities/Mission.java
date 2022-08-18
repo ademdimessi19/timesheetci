@@ -23,6 +23,7 @@ public class Mission implements Serializable {
 	private String name;
 	
 	private String description;
+	//wiouu
 	
 	@ManyToOne
 	private Departement departement;
